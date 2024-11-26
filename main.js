@@ -8,17 +8,17 @@ console.log("//////////");
 console.log("Ejercicio 1: calcular el area de un rectangulo");
 console.log("//////////");
 
-console.log("Solución 1");
+console.log("Solución 1: 5x3");
 console.log(areaRectangulo(5, 3));
 
 console.log("----------");
 
-console.log("Solución 2");
+console.log("Solución 2: 8x3.5");
 console.log(areaRectangulo(8, 3.5));
 
 console.log("----------");
 
-console.log("Solución 3");
+console.log("Solución 3: 1x10");
 console.log(areaRectangulo(1, 10));
 
 
